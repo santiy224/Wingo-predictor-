@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Wingo Prediction</title>
+  <style>
+    body { font-family: Arial; background
+  sound { alem slow moment: #f4f4f4; padding: 20px; text-align: center; }
+    .container { background: white; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); max-width: 500px; margin: auto; }
+    h1 { color: #333; }
+    textarea { width: 100%; height: 100px; margin-top: 10px; }
+    button { margin-top: 15px; padding: 10px 20px; background: green; color: white; border: none; border-radius: 5px; cursor: pointer; }
+    button:hover { background: darkgreen; }
+    .result { margin-top: 20px; font-size: 18px; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>66Lottery Wingo Predictor</h1>
+    <h1>bdgprediction live result all wingo also predict<h1>
+    <p>Enter last 10 results (0–9, comma separated):</p>
+    <textarea id="input" placeholder="e.g. 3,7,4,1,9,2,8,5,0,6"></textarea>
+    <button onclick="predict()">Predict</button>
+    <div class="result" id="output"></div>
+  </div>
+  <h1> function result
+  html lang="en"><head>
+ 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WINGO v6 PREDICTION TOOL</title>
+	<link rel="icon" type="image/png" href="dmwin.png">
+
+    
+  
+    <!-- Link to External CSS -->
+    <link rel="stylesheet" href="https://www.dmwinapp.in/prediction-tool/dmwin/v4/style.css">
+  <script>
+    function togglePhoneView() {
+            const phoneContainer = document.getElementById('phone-container');
+            if (phoneContainer.style.display === 'none' || phoneContainer.style.display === '') {
+                phoneContainer.style.display = 'block'; // Show the container
+            } else {
+                phoneContainer.style.display = 'none'; // Hide the container
+            }
+        }
+  </script>
+<style>
+        @font-face {
+            font-family: 'NotoSans_online_security'; 
+            src: url(chrome-extension://jcpgbnbdnakoblgfkbgggankeidkfcdl/assets/fonts/noto-sans-regular.woff);
+        }
+
+        @font-face {
+            font-family: 'NotoSans_medium_online_security'; 
+            src: url(chrome-extension://jcpgbnbdnakoblgfkbgggankeidkfcdl/assets/fonts/noto-sans-medium.ttf);
+        }
+
+        @font-face {
+            font-family: 'NotoSans_bold_online_security'; 
+            src: url(chrome-extension://jcpgbnbdnakoblgfkbgggankeidkfcdl/assets/fonts/noto-sans-bold.woff);
+        }
+
+        @font-face {
+            font-family: 'NotoSans_semibold_online_security'; 
+            src: url(chrome-extension://jcpgbnbdnakoblgfkbgggankeidkfcdl/assets/fonts/noto-sans-semibold.ttf);
+
+  <script>
+    function predict() {
+      const input = document.getElementById("input").value;
+      const numbers = input.split(',').map(n => parseInt(n.trim())).filter(n => !isNaN(n));
+      if (numbers.length < 5) {
+        document.getElementById("output").innerText = "Please enter at least 5 numbers.";
+        return;
+      }
+      join more follow as channel
+     click on this link for more prediction
+     https t.methelostdheerajthelostdheerajeeraj6
+      cfreq freq = Array(10).fill(0);
+      numforEachrEach(n => { if (n >= 0 && n <= 9) freq[n]++; });
+      const predicted = freq.indexOf(Math.max(...freq));
+      const size = predicted >= 5 ? "Big" : "Small";
+      document.getElementById("output").innerText = `Predicted Number: ${predicted} → Likely: ${size}`;
+    }
+  </script>
+</body>
+</html>
